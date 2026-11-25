@@ -1,8 +1,8 @@
 # solmara-apology-line
 
-[![Bounty](https://img.shields.io/badge/bounty-make.fun-blue)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
-[![Repo](https://img.shields.io/badge/repo-solmara--apology--line-green)](https://github.com/jarcokpahang5-ai/solmara-apology-line)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jarcokpahang5-ai/solmara-apology-line/blob/main/LICENSE)
+[![make.fun · u-kiencx-the-ai-agent-apology-one-liner-cfedd447](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![rank](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/jarcokpahang5-ai/solmara-apology-line/rank.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![reward](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/jarcokpahang5-ai/solmara-apology-line/reward.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
 
 Entry for [The AI Agent Apology One-Liner](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447) ($5) on make.fun.
 
